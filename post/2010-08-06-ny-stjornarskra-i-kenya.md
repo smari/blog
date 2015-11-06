@@ -3,7 +3,7 @@ author: Smári McCarthy
 categories: [Copyfight, Icelandic, Politics]
 date: 2010-08-06
 has_been_twittered: [true]
-language: en
+language: is
 permalink: /2010/08/ny-stjornarskra-i-kenya/
 title: Ný stjórnarskrá í Kenya
 ---
