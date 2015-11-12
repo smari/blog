@@ -5,6 +5,16 @@ date: 2015-11-04
 updated: 2015-11-04
 ---
 
+## Електронна Демокр@ция
+
+[<img class="size-full" style="float:right;" title="Електронна Демокр@ция" src="http://www.initiative.bg/wp-content/uploads/2015/03/korica-208x300.png"/>][12]
+
+This Bulgarian book on electronic democracy contains a Bulgarian translation
+of my essay "Bergeron's Children" (Децата на Бержерон).
+
+> Така и не получих съобщение с текст „АМЕРИКА“. Не получих и такова с текст „ВЕЛИКОБРИТАНИЯ“. Има много съобщения, които ми се иска да бях получил, но това така и не стана. Желанието ми за една по-добра реалност обаче бе примесено със страха, че реалността, в която цял живот бях живял, е към своя край. През по-голямата част на 2011 г. сърцето ми подскачаше всеки път, когато телефонът ми звънеше. 
+
+[Download the book](http://www.initiative.bg/wp-content/uploads/2015/03/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BC%D0%BE%D0%BA%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%9A%D0%9D%D0%98%D0%93%D0%90.pdf) (PDF)
 
 ## Redvolution: El poder del ciudadano conectado
 
@@ -58,9 +68,7 @@ Published under the terms of the Creative Commons Attribution-Sharealike licence
 
 Abstract: &#8220;Cloud computing can be defined as the provision of computing resources on-demand over the Internet. Although this might bring a number of advantages to end-users in terms of accessibility and elasticity of costs, problems arise concerning the collection of personal information in the Cloud and the legitimate exploitation thereof. To the extent most of the content and software application are only accessible online, users have no longer control over the manner in which they can access their data and the extent to which parties can exploit it.&#8221;
 
-> <div id="_mcePaste">
 >   Just as, after the industrial revolution, governments have been urged to exercise their authority for the creation of labour and consumer protection laws, today, during the digital revolution, governmental intervention has become necessary in order to promote civil liberties and to protect fundamental rights on the Internet, at least with regard to those risks which cannot be properly addressed through the adoption of clearer policies by cloud providers and better practices by users.
-> </div>
 
 [Download the PDF][10].
 
@@ -89,3 +97,4 @@ The book is distributed under the terms of the Creative Commons Attribution-Shar
  [9]: https://pediapress.com/books/show/07ebb0bdddb0412af5bfc25bc35d2a/
  [10]: http://edcp.uoc.edu/symposia/idp2011/proceedings/?lang=en
  [11]: http://www.lulu.com/product/paperback/free-beer-10/18626404
+ [12]: http://www.initiative.bg/wp-content/uploads/2015/03/korica-208x300.png
